@@ -4,6 +4,6 @@ General-purpose connection pooling library for Common Lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/fukamachi/anypool.git |
-| commit  | f51e635                                      |
+| commit  | 50f64a6                                      |
 | systems | anypool                                      |
 |---------+----------------------------------------------|
