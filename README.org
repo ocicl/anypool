@@ -7,3 +7,4 @@ General-purpose connection pooling library for Common Lisp
 | commit  | 50f64a6                                      |
 | systems | anypool                                      |
 |---------+----------------------------------------------|
+ 
